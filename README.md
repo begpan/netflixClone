@@ -10,3 +10,5 @@ Responsive web design </br>
 Tailwind for CSS </br>
 
 <h2>Screen Gif</h2>
+
+![netflix](https://github.com/begpan/netflixClone/assets/145170180/930b1a31-860d-491a-943f-436f08c9e7bd)
